@@ -5,4 +5,6 @@ Para mais informações, entre em nossa comunidade se inscrevendo em nosso [site
 O primeiro desafio é aplicação do **Método Twist** para codificação e decodificação de mensagens. Mais informações em `Challenge_Dados_-_Fevereiro.pdf`
 
 `nb_challenge1_python.ipynb`: notebook com enunciado e solução passo a passo.<br>
-`script_solution1.py`: script com a solução do problema. 
+`script_solution1.py`: script com a solução do problema.  
+hello word
+ola oque vc esta fazendo
